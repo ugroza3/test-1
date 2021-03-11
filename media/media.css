@@ -1,0 +1,66 @@
+@media screen and (max-width: 768px){
+.wrapper{
+    width: 768px;
+  }
+.main__title h1{
+    font-size: 100%;
+  }
+.header__container__nav p{
+    font-size: 100%;
+  }
+.main__title__desc h2{
+    font-size: 100%;
+  }
+.main__title__desc p{
+    font-size: 100%;
+  }
+.main__title__container{
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  .main__dotes{
+    margin-top: 20%;
+    padding-bottom: 10%;
+  }
+.main__container{
+    padding-bottom: 0px;
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+.main__title{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    padding: 0;
+
+  }
+.header__container__navmenu{
+  display: none;
+}
+
+.hamburger{
+    display: block;
+    width: 5%;
+  }
+.main__button button{
+   font-size: 16px;
+ }
+
+.main__title__desc__img{
+  padding-left: 87px;
+}
+.main__dhavan__info h2{
+  position: absolute;
+  right: 25%;
+  top: -3%;
+}
+
+.input__container{
+  padding-top: 84px;
+  padding-right: 100px;
+  padding-bottom: 48px;
+  padding-left: 100px;
+  background-size: cover;
+}
+}
